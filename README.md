@@ -2,7 +2,7 @@
 A suite of basic tests in Java used for practice
 
 Test 1:
-A method that returns the largest sum of any two elements in the given list of positive integers
+A function that returns the largest sum of any two elements in the given list of positive integers
 
 This implementation finds the largest and second largest elements in a single pass through the list, and then returns their sum. If the list has less than two elements, it throws an IllegalArgumentException.
 
